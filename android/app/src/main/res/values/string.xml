@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Replace "343254889799245" with your Facebook App ID here. -->
+    <string name="facebook_app_id">555441523076023</string>
+    <string name="fb_login_protocol_scheme">fb555441523076023</string>
+    <string name="facebook_client_token">8ee32779d68e98d5b777daf403d04157</string>
+
+</resources>
