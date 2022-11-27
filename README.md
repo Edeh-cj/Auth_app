@@ -1,16 +1,17 @@
 # authentication_app
 
-A new Flutter project.
+A demo authentication android mobile application to demonstrate the typical login flow and user profile management.
 
-## Getting Started
+## features
 
-This project is a starting point for a Flutter application.
+- Google signin
+- Facebook signin
+- Firebase cloud storage
+- Firebase Authentication
+- Image Picker
 
-A few resources to get you started if this is your first Flutter project:
+## design
+https://cdn.dribbble.com/users/449285/screenshots/14316114/media/79a0b94138b152cdfae854684fd9c9b2.png?compress=1&resize=450x338&vertical=top
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## apk
+https://drive.google.com/file/d/1JTJZdqY8DDtqHQSwHzvJLPxND483UQG-/view?usp=share_link
